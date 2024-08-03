@@ -105,7 +105,6 @@ documents those changes that are of interest to users and administrators.
 
 * Changes in Slurm 17.02.6
 ==========================
- -- Fix insecure handling of user_name and gid fields. CVE-2018-10995.
 
 * Changes in Slurm 17.02.5
 ==========================
